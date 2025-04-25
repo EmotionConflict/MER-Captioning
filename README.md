@@ -62,3 +62,11 @@ Copied 60 video files to 10_per_emotion_experiment/videos-mp4
 
 Total summary:
 Copied 120 video files across all datasets
+
+# how to set up openface manually
+
+https://pranav-srivastava.medium.com/openface-2-0-mac-installation-and-pose-detection-257289cbc79b
+
+# extract AUs
+
+`python scripts/au_extraction.py`
