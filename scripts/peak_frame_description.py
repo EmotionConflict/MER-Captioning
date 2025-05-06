@@ -1,4 +1,4 @@
-# NOTE: This one works. 
+# NOTE: used this file to extract the data in the test_subset_peak_frame_description folder
 
 import cv2
 from PIL import Image
