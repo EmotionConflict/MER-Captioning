@@ -5,6 +5,8 @@ from PIL import Image
 import torch
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
 import pandas as pd
+import os
+import csv
 
 def find_peak_frame(au_data_path):
     # === LOAD AU DATA ===
@@ -49,18 +51,37 @@ model = Blip2ForConditionalGeneration.from_pretrained(
 
 
 # --- Config ---
-video_path = "./data/MER_test_subset/test_subset/sample_00000143.mp4"
-csv_path = "./data/MER_test_subset/test_subset_au/sample_00000143.csv"
-frame_index, time = find_peak_frame(csv_path)  # Just put the exact frame number you want
-print(frame_index)
+video_dir = "./data/MER_test_subset/test_subset"
+csv_dir = "./data/MER_test_subset/test_subset_au"
+out_dir = "./data/MER_test_subset/test_subset_peak_frame_description"
 prompt = "Describe what's in this frame."
 
+os.makedirs(out_dir, exist_ok=True)
 
+video_files = [f for f in os.listdir(video_dir) if f.endswith('.mp4')]
 
-# --- Step 3: Generate output ---
-image = extract_frame_by_index(video_path, frame_index)
-inputs = processor(images=image, text=prompt, return_tensors="pt").to(device, torch.float16 if torch.cuda.is_available() else torch.float32)
-generated_ids = model.generate(**inputs)
-generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
+for video_file in video_files:
+    base_name = os.path.splitext(video_file)[0]
+    video_path = os.path.join(video_dir, video_file)
+    csv_path = os.path.join(csv_dir, base_name + ".csv")
+    out_path = os.path.join(out_dir, base_name + ".csv")
 
-print("Frame Description:", generated_text)
+    if not os.path.exists(csv_path):
+        print(f"CSV not found for {video_file}, skipping.")
+        continue
+
+    try:
+        frame_index, time = find_peak_frame(csv_path)
+        image = extract_frame_by_index(video_path, frame_index)
+        inputs = processor(images=image, text=prompt, return_tensors="pt").to(device, torch.float16 if torch.cuda.is_available() else torch.float32)
+        generated_ids = model.generate(**inputs)
+        generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
+
+        # Save result to CSV
+        with open(out_path, 'w', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(["peak_frame_index", "description"])
+            writer.writerow([frame_index, generated_text])
+        print(f"Saved: {out_path}")
+    except Exception as e:
+        print(f"Error processing {video_file}: {e}")
