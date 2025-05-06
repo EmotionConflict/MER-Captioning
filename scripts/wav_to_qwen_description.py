@@ -1,3 +1,6 @@
+# ! pip install transformers_stream_generator
+# ! pip install tiktoken
+
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig

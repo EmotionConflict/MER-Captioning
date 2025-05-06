@@ -54,7 +54,7 @@ model = Blip2ForConditionalGeneration.from_pretrained(
 video_dir = "./data/MER_test_subset/test_subset"
 csv_dir = "./data/MER_test_subset/test_subset_au"
 out_dir = "./data/MER_test_subset/test_subset_peak_frame_description"
-prompt = "Describe what's in this frame."
+prompt = "Describe what is happening in this video frame as if you're narrating it to someone who cannot see it. Focus only on visible details such as people’s actions, facial expressions, gestures, body language, clothing, objects, and the physical setting. Be specific about how people are positioned and how they interact with each other and their surroundings. Write descriptively—do not simply list objects. Include visual cues that might suggest emotional states, but don’t speculate beyond what’s visible."
 
 os.makedirs(out_dir, exist_ok=True)
 
