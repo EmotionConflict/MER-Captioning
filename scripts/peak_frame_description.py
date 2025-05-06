@@ -61,7 +61,7 @@ os.makedirs(out_dir, exist_ok=True)
 video_files = [f for f in os.listdir(video_dir) if f.endswith('.mp4')]
 
 # Only process the first 2 videos for testing
-video_files = video_files[:2]
+# video_files = video_files[:2]
 
 for video_file in video_files:
     base_name = os.path.splitext(video_file)[0]
