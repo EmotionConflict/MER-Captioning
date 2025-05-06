@@ -1,3 +1,8 @@
+# !pip install git+https://github.com/openai/whisper.git
+# !apt install ffmpeg
+# !pip install jiwer
+
+
 import whisper
 import torch
 import torchaudio
