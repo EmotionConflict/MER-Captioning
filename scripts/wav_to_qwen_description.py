@@ -36,7 +36,7 @@ for wav_file in wav_files:
     # Format the query for each file
     query = tokenizer.from_list_format([
         {"audio": wav_path},
-        {"text": "Describe the speaker's emotional tone, voice intensity, speech style, and delivery. Include detailed observations about pitch, pacing, loudness, valence hesitation, and clarity. Focus only on vocal characteristics related to emotional cues."}
+        {"text": "Describe the speaker’s vocal delivery in this audio. Focus only on how they sound, not what they are saying. Include detailed observations about: \n- Prosody: pitch, intonation, pacing, loudness, rhythm, and pauses or hesitation \n- Voice quality: breathiness, tension, harshness, smoothness, or creakiness \n- Articulation: clarity, enunciation, and any slurring, stuttering, or irregular speech patterns \nAlso describe how expressive or monotone the speaker sounds. Be as descriptive as possible and explain what these vocal features might suggest about their emotional tone, without interpreting the actual words."}
     ])
     # Generate the response
     response, history = model.chat(tokenizer, query=query, history=None)
