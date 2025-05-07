@@ -5,7 +5,7 @@ import subprocess
 import argparse
 import pandas as pd
 import glob
-
+import json
 # AU to facial phrase mapping
 AU_PHRASES = {
     'AU01': 'Inner Brow Raiser',
@@ -178,6 +178,10 @@ if __name__ == "__main__":
     
     # Process the selected video files
     results = process_video_files(video_files, args.output_dir, args.openface_bin)
+    
+    # save the results to a json file
+    with open(os.path.join(args.output_dir, "au_results.json"), "w") as f:
+        json.dump(results, f)
     
     # Print summary
     print("\nSummary of processed videos:")
