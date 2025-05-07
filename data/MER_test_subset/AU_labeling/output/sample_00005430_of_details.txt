@@ -1,0 +1,10 @@
+Input:data/MER_test_subset/test_subset/sample_00005430.mp4
+Input full path:/Users/charlie/github.com/how2ai/MER-Captioning/data/MER_test_subset/test_subset/sample_00005430.mp4
+Camera parameters:459.375,459.375,336,189
+Output csv:sample_00005430.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
