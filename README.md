@@ -70,3 +70,7 @@ https://pranav-srivastava.medium.com/openface-2-0-mac-installation-and-pose-dete
 # extract AUs
 
 `python scripts/au_extraction.py`
+
+# Using GPT-40 to extract the data. BLIP-2 doesn't have a good quality
+
+`KMP_DUPLICATE_LIB_OK=TRUE python scripts/peak_frame_description.py`
