@@ -54,5 +54,39 @@ def convert_first_step_to_final_annotations(input_path, output_path):
     with open(output_path, 'w') as outfile:
         json.dump(output, outfile, indent=4, ensure_ascii=False)
 
+def add_discrete_and_valence_to_annotations(json_path, csv_path, output_path=None):
+    # Build mapping from sample name to (discrete, valence)
+    label_map = {}
+    with open(csv_path, 'r') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            name = row['name'] + '.mp4'
+            label_map[name] = {
+                'discrete': row['discrete'],
+                'valence': float(row['valence'])
+            }
+
+    # Load JSON
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+
+    # Update each object
+    for obj in data:
+        vid = obj.get('video_id')
+        if vid in label_map:
+            obj['discrete'] = label_map[vid]['discrete']
+            obj['valence'] = label_map[vid]['valence']
+
+    # Write back (optionally to a new file)
+    out_path = output_path if output_path else json_path
+    with open(out_path, 'w') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
 if __name__ == '__main__':
     convert_first_step_to_final_annotations(input_path, output_path)
+    # Uncomment the following line to run the update
+    add_discrete_and_valence_to_annotations(
+        'data/MER_test_subset/MER_final_annotations.json',
+        'data/MER_test_subset/test_labels_subset.csv'
+    )
+    pass

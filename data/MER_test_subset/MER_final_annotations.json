@@ -35,7 +35,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a varied intonation and pacing to convey excitement and enthusiasm. Their voice sounds clear and there are no noticeable rough spots or hesitations. They enunciate their words clearly and do not stammer or slur. Overall, their vocal delivery suggests that they are genuinely happy and excited about the situation being discussed.",
-        "caption": "他叫你说对了真的是成老师这样的他主动推出竞争"
+        "caption": "他叫你说对了真的是成老师这样的他主动推出竞争",
+        "discrete": "surprise",
+        "valence": 0.5
     },
     {
         "video_id": "sample_00000705.mp4",
@@ -70,7 +72,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a varied intonation and pacing to convey their emotions. Their voice is clear and there are no signs of strain or effort. They speak in a natural and relaxed manner, with no pauses or hesitation. Overall, their vocal delivery suggests that they are happy and excited.",
-        "caption": "你别闹我等待人"
+        "caption": "你别闹我等待人",
+        "discrete": "neutral",
+        "valence": 1.0
     },
     {
         "video_id": "sample_00004007.mp4",
@@ -107,7 +111,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is natural. She sounds positive and energetic. She speaks with a clear, strong voice, and her enunciation is excellent. There are no signs of strain or effort in her voice.",
-        "caption": "Come on. You're committing on education. Come on, come on."
+        "caption": "Come on. You're committing on education. Come on, come on.",
+        "discrete": "surprise",
+        "valence": -0.75
     },
     {
         "video_id": "sample_00001631.mp4",
@@ -146,7 +152,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds natural. He is speaking at a normal pace, and his voice is clear and not strained. There are no significant pauses or hesitations in his speech.",
-        "caption": "别记忆也有市场"
+        "caption": "别记忆也有市场",
+        "discrete": "surprise",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00005443.mp4",
@@ -184,7 +192,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. Their pitch is medium, and their intonation is rising at the end. Their pacing is medium with a slight increase in volume towards the end. They do not pause or hesitate. Their voice quality is clear, and they enunciate their words well. There are no slurring, stuttering, or irregular speech patterns. Overall, their vocal delivery suggests that they are surprised or shocked.",
-        "caption": ""
+        "caption": "",
+        "discrete": "happy",
+        "valence": 1.75
     },
     {
         "video_id": "sample_00004950.mp4",
@@ -224,7 +234,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, varying intonation, and a natural pace. Their voice is clear and there are no noticeable breathing sounds, tension, or harshness. They speak with some enunciation and occasional slurring, suggesting that they are speaking naturally and not reading from a script. Overall, their vocal delivery conveys a sense of enthusiasm and excitement.",
-        "caption": "聽到人說一般人留下"
+        "caption": "聽到人說一般人留下",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00002460.mp4",
@@ -266,7 +278,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There are no significant changes in pitch, intonation, or pacing. The speaker sounds calm and collected. There are no noticeable breathing or voice quality issues. The articulation is clear and there are no slurring or stuttering sounds. Overall, the speaker's vocal delivery suggests that they are delivering a serious and thoughtful message.",
-        "caption": "你又不愿意让别人叫我这些我都要演员都是这个十几"
+        "caption": "你又不愿意让别人叫我这些我都要演员都是这个十几",
+        "discrete": "happy",
+        "valence": 1.0
     },
     {
         "video_id": "sample_00001551.mp4",
@@ -304,7 +318,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a mix of loud and soft tones, and vary their pace and rhythm appropriately. They enunciate clearly and do not stammer or slur. Their voice sounds natural and healthy. Overall, their delivery suggests that they are speaking confidently and engagingly.",
-        "caption": "我就会......你说他是你的鼓孔我从小就喝 Did 让我机恨过你"
+        "caption": "我就会......你说他是你的鼓孔我从小就喝 Did 让我机恨过你",
+        "discrete": "worried",
+        "valence": -1.0
     },
     {
         "video_id": "sample_00006798.mp4",
@@ -342,7 +358,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is natural and expressive. They speak with a medium pitch, and their intonation rises at the end of the sentence, suggesting surprise or curiosity. Their pacing is natural, and their voice is clear and well-modulated. There are no noticeable pauses or hesitations. Overall, their vocal delivery conveys a sense of genuine interest or confusion.",
-        "caption": "还是拿钱了海产主任月亮没有说到底处不处处"
+        "caption": "还是拿钱了海产主任月亮没有说到底处不处处",
+        "discrete": "worried",
+        "valence": -1.5
     },
     {
         "video_id": "sample_00005939.mp4",
@@ -381,7 +399,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak at a normal pace with a slight upward inflection at the end of each sentence, indicating a positive tone. Their voice is clear and there are no noticeable pronunciation issues or slurring. Overall, their delivery sounds natural and engaging.",
-        "caption": "他的人 相親對他的病情很好"
+        "caption": "他的人 相親對他的病情很好",
+        "discrete": "worried",
+        "valence": -1.0
     },
     {
         "video_id": "sample_00005497.mp4",
@@ -417,7 +437,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with no noticeable changes in pitch, intonation, or pacing. Their voice sounds clear and there are no signs of strain or effort. Overall, their delivery is emotionless and professional.",
-        "caption": "那壓機你們倒是要不退給我怎麼辦"
+        "caption": "那壓機你們倒是要不退給我怎麼辦",
+        "discrete": "worried",
+        "valence": -2.0
     },
     {
         "video_id": "sample_00003790.mp4",
@@ -456,7 +478,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his vocal delivery is monotone. He speaks at a normal pace, with a steady rhythm and no pauses or hesitation. His voice sounds clear and there are no signs of strain or effort. His tone suggests a lack of emotion or interest in the topic being discussed.",
-        "caption": "What was your..."
+        "caption": "What was your...",
+        "discrete": "sad",
+        "valence": -1.75
     },
     {
         "video_id": "sample_00004940.mp4",
@@ -499,7 +523,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a fast-paced, slightly rushed tone, with a noticeable breathiness in their voice. They also use a monotone, flat intonation, which suggests a lack of emotion or enthusiasm in their speech.",
-        "caption": "在你嘈嚻嘴唇多少尷尬"
+        "caption": "在你嘈嚻嘴唇多少尷尬",
+        "discrete": "angry",
+        "valence": -3.25
     },
     {
         "video_id": "sample_00005321.mp4",
@@ -539,7 +565,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a fast-paced, slightly breathy tone, with a noticeable pause at the end of the sentence. This suggests that they may be expressing a strong emotion, such as frustration or anger, but are trying to maintain a composed demeanor.",
-        "caption": "Дома, чай, си, вон, дыша! Дай, не повышу!"
+        "caption": "Дома, чай, си, вон, дыша! Дай, не повышу!",
+        "discrete": "angry",
+        "valence": -4.0
     },
     {
         "video_id": "sample_00004407.mp4",
@@ -577,7 +605,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotonous. Their pitch is relatively high, with a slight vibrato, and their intonation is uneven, suggesting a sense of uncertainty or confusion. Their pacing is slow and measured, with occasional pauses or hesitation, and their loudness varies slightly throughout the clip. Their rhythm is consistent, with a steady beat, and their voice quality is clear and without any notable flaws. Overall, their vocal delivery suggests a sense of emotional distress or uncertainty.",
-        "caption": "直到我在医院看见受伤的书真我突然发现她是不是周天生女儿已经无所谓了她是我太太是我的亲人她跟我爸爸妈妈妹妹的女儿"
+        "caption": "直到我在医院看见受伤的书真我突然发现她是不是周天生女儿已经无所谓了她是我太太是我的亲人她跟我爸爸妈妈妹妹的女儿",
+        "discrete": "sad",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00001999.mp4",
@@ -621,7 +651,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is emotional. She speaks in a high-pitched, strained voice, with a lot of pauses and hesitation. There is a sense of sadness or disappointment in her voice.",
-        "caption": "Oh goodness. Why hold on!"
+        "caption": "Oh goodness. Why hold on!",
+        "discrete": "sad",
+        "valence": -4.5
     },
     {
         "video_id": "sample_00004943.mp4",
@@ -662,7 +694,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with no notable variations in pitch, intonation, or pacing. Their voice sounds clear and there are no signs of strain or effort. Overall, their delivery suggests a neutral emotional tone.",
-        "caption": "我先把地址发给你"
+        "caption": "我先把地址发给你",
+        "discrete": "happy",
+        "valence": 1.5
     },
     {
         "video_id": "sample_00002010.mp4",
@@ -697,7 +731,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a slight upward inflection at the end of the sentence. Their voice is clear and there are no noticeable signs of strain or effort. They speak at a normal pace, with a slight pause at the end of the sentence. Overall, their tone suggests that they are surprised or confused.",
-        "caption": "是你那是谁啊那你们告诉我"
+        "caption": "是你那是谁啊那你们告诉我",
+        "discrete": "surprise",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00002603.mp4",
@@ -734,7 +770,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds natural. He is speaking at a normal pace, with a slight emphasis on certain words. There are no noticeable pauses or hesitations in his speech. His voice is clear and there are no signs of strain or emotion.",
-        "caption": "这回事啊是真的程老师啊我真没想到你还和曾主任大招我帮我留情"
+        "caption": "这回事啊是真的程老师啊我真没想到你还和曾主任大招我帮我留情",
+        "discrete": "happy",
+        "valence": 1.5
     },
     {
         "video_id": "sample_00001646.mp4",
@@ -768,7 +806,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, varying intonation, and a moderate pace. Their voice sounds clear and there are no signs of strain or effort. They use a few fillers, such as \"um\" and \"ah,\" which adds to the naturalness of their delivery. Overall, their vocal delivery suggests that they are speaking confidently and engagingly.",
-        "caption": "《十分婦故意地出破心事》取挑象"
+        "caption": "《十分婦故意地出破心事》取挑象",
+        "discrete": "angry",
+        "valence": -2.5
     },
     {
         "video_id": "sample_00003709.mp4",
@@ -807,7 +847,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There is a slight pause at the end of the sentence.",
-        "caption": "媽是不希望看見你這個家"
+        "caption": "媽是不希望看見你這個家",
+        "discrete": "worried",
+        "valence": -1.0
     },
     {
         "video_id": "sample_00001485.mp4",
@@ -849,7 +891,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with no notable changes in pitch, intonation, or pacing. Their voice quality is clear, and they enunciate their words clearly. There are no noticeable signs of breathiness, tension, harshness, smoothness, or creakiness in their voice. Overall, their vocal delivery suggests that they are speaking in a matter-of-fact and straightforward manner.",
-        "caption": "怎么就这么难呀下回学喂喂你要是真的觉得我视为你"
+        "caption": "怎么就这么难呀下回学喂喂你要是真的觉得我视为你",
+        "discrete": "angry",
+        "valence": -2.75
     },
     {
         "video_id": "sample_00003245.mp4",
@@ -890,7 +934,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a medium pitch with a slight upward inflection at the end of the sentence. Their voice sounds clear and there are no noticeable slurring, stuttering, or irregular speech patterns. It sounds like they are trying to convey a sense of excitement or enthusiasm.",
-        "caption": "當然了這些錢對我家來說都是小事物"
+        "caption": "當然了這些錢對我家來說都是小事物",
+        "discrete": "neutral",
+        "valence": 0.5
     },
     {
         "video_id": "sample_00004936.mp4",
@@ -932,7 +978,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pace, fluctuating intonation, and clear enunciation. There are no signs of strain or effort in their voice. Overall, their tone sounds positive and enthusiastic.",
-        "caption": "你们这个好演这这排名前几位的老娃姬也是非常重回的"
+        "caption": "你们这个好演这这排名前几位的老娃姬也是非常重回的",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00001682.mp4",
@@ -967,7 +1015,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds negative.",
-        "caption": ""
+        "caption": "",
+        "discrete": "angry",
+        "valence": -2.25
     },
     {
         "video_id": "sample_00001133.mp4",
@@ -1007,7 +1057,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds negative. There is a pause at <|0.43|> seconds, and his voice sounds tense.",
-        "caption": "不用抓我了,就你那腦子里一半是水一半是面一想来一会儿就降火"
+        "caption": "不用抓我了,就你那腦子里一半是水一半是面一想来一会儿就降火",
+        "discrete": "angry",
+        "valence": -1.0
     },
     {
         "video_id": "sample_00000832.mp4",
@@ -1048,7 +1100,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is emotional, with a neutral tone. There are no significant changes in pitch, intonation, or pacing. The speaker speaks clearly and without hesitation. There are no rough or strained sounds in their voice, and they do not sound breathless or tired. Overall, their vocal delivery suggests that they are expressing a neutral emotional state.",
-        "caption": "一切我想跟我在一起了你就明明打 back告"
+        "caption": "一切我想跟我在一起了你就明明打 back告",
+        "discrete": "angry",
+        "valence": -2.75
     },
     {
         "video_id": "sample_00005430.mp4",
@@ -1088,7 +1142,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is monotone. There are no significant changes in pitch, intonation, or pacing. The speaker speaks at a consistent volume and there are no pauses or hesitations. This suggests that the speaker may be reading from a script or memorized speech and may not be expressing any strong emotions.",
-        "caption": "越是真言疼多"
+        "caption": "越是真言疼多",
+        "discrete": "sad",
+        "valence": -2.5
     },
     {
         "video_id": "sample_00005626.mp4",
@@ -1128,7 +1184,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds negative. He is speaking slowly, with a low pitch, and there are no pauses or hesitations. His voice sounds breathy and tense.",
-        "caption": "讓人叫我穿"
+        "caption": "讓人叫我穿",
+        "discrete": "sad",
+        "valence": -3.25
     },
     {
         "video_id": "sample_00001454.mp4",
@@ -1168,7 +1226,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, and their intonation rises and falls appropriately to convey emotion. Their pacing is steady, and their voice sounds clear and full-bodied. There are no pauses or hesitations in their speech. Overall, their vocal delivery suggests that they are speaking naturally and emotionally.",
-        "caption": "this is a mess."
+        "caption": "this is a mess.",
+        "discrete": "neutral",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00006298.mp4",
@@ -1204,7 +1264,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There is a noticeable change in tone and pitch at <|2.37|> seconds, which suggests that the speaker is expressing surprise or disbelief.",
-        "caption": "就你觉得我哪个心别人都不怎么想"
+        "caption": "就你觉得我哪个心别人都不怎么想",
+        "discrete": "sad",
+        "valence": -2.75
     },
     {
         "video_id": "sample_00006717.mp4",
@@ -1246,7 +1308,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is expressive. She speaks with a medium pitch, and her intonation rises at the end of her sentence, suggesting surprise or enthusiasm. Her pacing is medium, and she takes brief pauses at the end of her sentences. Her voice sounds clear, and she enunciates her words well. There are no slurring, stuttering, or irregular speech patterns. Overall, her vocal delivery suggests that she is excited or surprised.",
-        "caption": "Ihr könnt für die Litten gewiss nicht. Entschuldigung."
+        "caption": "Ihr könnt für die Litten gewiss nicht. Entschuldigung.",
+        "discrete": "happy",
+        "valence": 1.75
     },
     {
         "video_id": "sample_00003652.mp4",
@@ -1286,7 +1350,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There is a slight pause at 00:06, and the pitch is slightly raised at 00:07. The voice quality is clear, and there are no slurring, stuttering, or irregular speech patterns. The articulation is clear, and the speaker enunciates the words clearly. Overall, it sounds like the speaker is speaking in a natural and straightforward manner.",
-        "caption": "嗯哎要使"
+        "caption": "嗯哎要使",
+        "discrete": "worried",
+        "valence": 0.25
     },
     {
         "video_id": "sample_00006500.mp4",
@@ -1324,7 +1390,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is emotional. She speaks in a low pitch, with a moderate intonation, and a steady, measured pace. There are no pauses or hesitations in her speech. Her voice sounds breathy and tense, with some roughness in her voice. She enunciates her words clearly, without any slurring or stuttering. Overall, her vocal delivery suggests that she is expressing strong emotions.",
-        "caption": "、何処にして Why did we on, to, to, redeveloperase, にアナのようにしても、 Dr. Harada【サーモンド語】"
+        "caption": "、何処にして Why did we on, to, to, redeveloperase, にアナのようにしても、 Dr. Harada【サーモンド語】",
+        "discrete": "sad",
+        "valence": -2.5
     },
     {
         "video_id": "sample_00004288.mp4",
@@ -1361,7 +1429,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There is a slight tension in their voice, and they speak at a normal pace with a moderate pitch. They pause briefly at the end of their statement.",
-        "caption": "那您在等我一会我在打几个电话问的情况"
+        "caption": "那您在等我一会我在打几个电话问的情况",
+        "discrete": "worried",
+        "valence": -1.5
     },
     {
         "video_id": "sample_00005828.mp4",
@@ -1396,7 +1466,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is relatively monotone. They speak at a normal pace with a slight upward inflection at the end of each sentence. Their voice sounds clear and there are no noticeable pauses or hesitations. Overall, their tone suggests that they are speaking in a matter-of-fact or objective manner.",
-        "caption": "沉走 小寓"
+        "caption": "沉走 小寓",
+        "discrete": "surprise",
+        "valence": -0.75
     },
     {
         "video_id": "sample_00001667.mp4",
@@ -1437,7 +1509,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with no obvious changes in pitch, intonation, or pacing. Their voice sounds clear and there are no noticeable signs of strain or effort. Overall, their delivery suggests that they are speaking confidently and without emotion.",
-        "caption": "行了那我要聽聽你的條件"
+        "caption": "行了那我要聽聽你的條件",
+        "discrete": "happy",
+        "valence": 0.5
     },
     {
         "video_id": "sample_00000143.mp4",
@@ -1477,7 +1551,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a low pitch with a steady intonation and pacing. Their voice sounds clear and there are no noticeable pauses or hesitations. They use a smooth voice quality with no signs of breathiness, tension, harshness, or roughness. There are no slurring, stuttering, or irregular speech patterns. Overall, their vocal delivery suggests a neutral emotional tone.",
-        "caption": "我再學你也不會驗死 explaining the new arrangement待在學里才會驗死"
+        "caption": "我再學你也不會驗死 explaining the new arrangement待在學里才會驗死",
+        "discrete": "angry",
+        "valence": -2.5
     },
     {
         "video_id": "sample_00006903.mp4",
@@ -1518,7 +1594,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a mix of loud and soft tones, and vary their pace and rhythm appropriately. They enunciate clearly and do not stammer or slur. There are no signs of tension, breathiness, or harshness in their voice. Overall, their delivery suggests that they are engaged and interested in the conversation.",
-        "caption": "我也没什么好说的了我觉得这真是"
+        "caption": "我也没什么好说的了我觉得这真是",
+        "discrete": "happy",
+        "valence": 2.0
     },
     {
         "video_id": "sample_00005576.mp4",
@@ -1556,7 +1634,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, in a Chinese, saying, \"具体的细节呢到时候请小胖哦\". The voice sounds natural and expressive. There are no noticeable pauses or hesitations.",
-        "caption": "继续细节到时候请您喜欢"
+        "caption": "继续细节到时候请您喜欢",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00002972.mp4",
@@ -1596,7 +1676,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a mix of loud and soft tones, and vary their pace and rhythm appropriately. They enunciate clearly and do not stammer or slur. There are no signs of tension, breathiness, or harshness in their voice. Overall, their vocal delivery suggests that they are engaged and interested in the conversation.",
-        "caption": "sustainable"
+        "caption": "sustainable",
+        "discrete": "surprise",
+        "valence": -1.0
     },
     {
         "video_id": "sample_00002806.mp4",
@@ -1633,7 +1715,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds negative. He is speaking in a fast pace, with a slight pause at the end. His voice is clear and there are no noticeable accent or pauses.",
-        "caption": "回美国接着做你的球轨混日子"
+        "caption": "回美国接着做你的球轨混日子",
+        "discrete": "worried",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00000754.mp4",
@@ -1674,7 +1758,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak with a slight upward inflection at the end of each sentence, which suggests a sense of urgency or enthusiasm. Their voice is clear and enunciated, with no noticeable slurring or stuttering. Overall, their tone sounds professional and confident.",
-        "caption": "where we can"
+        "caption": "where we can",
+        "discrete": "sad",
+        "valence": -4.0
     },
     {
         "video_id": "sample_00005573.mp4",
@@ -1710,7 +1796,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his vocal delivery is monotone. He speaks in a low, slow, and measured tone. There are no pauses or hesitations in his speech.",
-        "caption": ""
+        "caption": "",
+        "discrete": "worried",
+        "valence": -1.25
     },
     {
         "video_id": "sample_00002787.mp4",
@@ -1749,7 +1837,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his vocal delivery is natural. He sounds happy and excited. There are no noticeable pauses or hesitations in his speech.",
-        "caption": "这是我连别的记号"
+        "caption": "这是我连别的记号",
+        "discrete": "happy",
+        "valence": 1.25
     },
     {
         "video_id": "sample_00006939.mp4",
@@ -1785,7 +1875,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is natural. She speaks at a normal pace, with a slight rise in pitch at the end of her sentence. Her voice is clear and there are no noticeable vocal artifacts. It sounds like she is speaking in a neutral emotional tone.",
-        "caption": "until they reach the front of the church."
+        "caption": "until they reach the front of the church.",
+        "discrete": "surprise",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00005217.mp4",
@@ -1820,7 +1912,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with no apparent variations in pitch, intonation, or pacing. Their voice sounds clear and there are no noticeable signs of strain or effort. Their articulation is also clear, with no noticeable slurring or stuttering. Overall, their vocal delivery suggests that they are speaking naturally and without any particular emotion.",
-        "caption": "我家想装"
+        "caption": "我家想装",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00004726.mp4",
@@ -1860,7 +1954,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a low pitch with a natural, slightly husky tone. Their voice is clear and there are no noticeable pauses or hesitations. They speak with a slight breathiness and tension in their voice, which suggests that they may be emotional or passionate about what they are saying.",
-        "caption": "我什么都不行"
+        "caption": "我什么都不行",
+        "discrete": "sad",
+        "valence": -1.25
     },
     {
         "video_id": "sample_00001837.mp4",
@@ -1901,7 +1997,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There are no significant changes in pitch, intonation, or pacing. The voice quality is clear and there are no noticeable breathiness, tension, harshness, smoothness, or creakiness. The speaker speaks in a straightforward manner, without any slurring, stuttering, or irregular speech patterns. Overall, their vocal delivery suggests a neutral emotional tone.",
-        "caption": "От партия иiding Теркиния У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У У У. У. У. У. У. У. У. У. У. У. У У У У У. У. У У У У. У У. У."
+        "caption": "От партия иiding Теркиния У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У. У У У. У. У. У. У. У. У. У. У. У. У У У У У. У. У У У У. У У. У.",
+        "discrete": "sad",
+        "valence": -3.75
     },
     {
         "video_id": "sample_00006816.mp4",
@@ -1939,7 +2037,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a man speaking, and his tone sounds natural. He is speaking slowly, with a neutral emotional tone. There are no significant pauses or hesitations in his speech.",
-        "caption": "去跟少主说少主人呢也是个非常好的人这事如果放在别人的身上"
+        "caption": "去跟少主说少主人呢也是个非常好的人这事如果放在别人的身上",
+        "discrete": "worried",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00005474.mp4",
@@ -1978,7 +2078,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak at a normal pace with a slight rise in pitch at the end of the sentence. Their voice is clear and there are no noticeable articulation issues. Overall, their tone suggests they are happy and excited.",
-        "caption": "不错超扯的"
+        "caption": "不错超扯的",
+        "discrete": "happy",
+        "valence": 2.0
     },
     {
         "video_id": "sample_00002680.mp4",
@@ -2016,7 +2118,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, and their voice quality is clear and smooth. They use a natural rate of speech and vary their volume and tone appropriately to convey their emotions. There are no signs of strain or effort in their voice. Overall, their delivery sounds natural and engaging.",
-        "caption": "你们人都会有话"
+        "caption": "你们人都会有话",
+        "discrete": "angry",
+        "valence": -3.75
     },
     {
         "video_id": "sample_00004145.mp4",
@@ -2054,7 +2158,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, using a slight rise in pitch at the end of the sentence. Their intonation is natural and varied, with a slight upward inflection at the end of the sentence. Their pacing is medium, with a slight pause at the end of the sentence. Their voice quality is clear, with no signs of strain or effort. They speak smoothly and without any slurring or stuttering. Overall, their vocal delivery suggests that they are speaking confidently and naturally, with a slight emotion conveyed through their tone.",
-        "caption": "不合群是我一直相信"
+        "caption": "不合群是我一直相信",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00002118.mp4",
@@ -2096,7 +2202,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. There are no significant changes in pitch, intonation, or pacing. The speaker speaks clearly and without any slurring or stuttering. Their voice sounds natural and relaxed.",
-        "caption": "合适的 而是很熟悉的很方便"
+        "caption": "合适的 而是很熟悉的很方便",
+        "discrete": "neutral",
+        "valence": 0.0
     },
     {
         "video_id": "sample_00003028.mp4",
@@ -2132,7 +2240,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and monotone. They speak in a normal tone of voice, with a slight rise in pitch at the end of the sentence. Their voice is clear and there are no noticeable signs of strain or effort. Overall, their tone suggests that they are neutral and not particularly emotional about the topic being discussed.",
-        "caption": "See ya!"
+        "caption": "See ya!",
+        "discrete": "surprise",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00005897.mp4",
@@ -2174,7 +2284,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is emotional, with a raised pitch and intonation at the end. They sound urgent and passionate. There are no significant pauses or hesitations.",
-        "caption": "你要是屁股讓我知道的護棍最香"
+        "caption": "你要是屁股讓我知道的護棍最香",
+        "discrete": "angry",
+        "valence": -0.75
     },
     {
         "video_id": "sample_00005277.mp4",
@@ -2214,7 +2326,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "This is a woman speaking, and her vocal delivery is monotone. There are no discernible changes in pitch, intonation, or pacing. There are no pauses or hesitations in her speech. Her voice sounds clear and there are no slurring, stuttering, or irregular speech patterns. Overall, her vocal delivery suggests a lack of emotion or enthusiasm.",
-        "caption": "I've be noticed I could listen to the pay time."
+        "caption": "I've be noticed I could listen to the pay time.",
+        "discrete": "neutral",
+        "valence": -0.25
     },
     {
         "video_id": "sample_00003773.mp4",
@@ -2254,7 +2368,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is expressive and natural. They speak with a medium pitch, slightly elevated intonation, and a moderate pace. Their voice is clear and there are no noticeable pauses or hesitations. They sound happy and excited.",
-        "caption": "希望我們好當我是我"
+        "caption": "希望我們好當我是我",
+        "discrete": "surprise",
+        "valence": -0.75
     },
     {
         "video_id": "sample_00005062.mp4",
@@ -2292,7 +2408,9 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is natural and expressive. They speak with a medium pitch, and their intonation rises at the end of the sentence, suggesting surprise or excitement. Their voice is clear and there are no signs of strain or effort. They speak at a normal pace, with occasional pauses and a slight emphasis on certain words. Overall, their vocal delivery conveys enthusiasm and engagement with the topic being discussed.",
-        "caption": "还帮妈妈積酷的呀"
+        "caption": "还帮妈妈積酷的呀",
+        "discrete": "happy",
+        "valence": 1.0
     },
     {
         "video_id": "sample_00006422.mp4",
@@ -2326,6 +2444,8 @@
         "coarse-grained_summary": "",
         "fine-grained_summary": "",
         "audio_description": "The speaker's vocal delivery in this audio is monotone. There are no notable changes in pitch, intonation, pacing, or loudness. There are no pauses or hesitation. The voice quality is clear. There are no signs of slurring, stuttering, or irregular speech patterns. It sounds like the speaker is reading a script without any expressiveness.",
-        "caption": "I remember our households came in. Really?"
+        "caption": "I remember our households came in. Really?",
+        "discrete": "surprise",
+        "valence": -1.75
     }
 ]
