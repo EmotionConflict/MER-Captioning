@@ -74,3 +74,7 @@ https://pranav-srivastava.medium.com/openface-2-0-mac-installation-and-pose-dete
 # Using GPT-40 to extract the data. BLIP-2 doesn't have a good quality
 
 `KMP_DUPLICATE_LIB_OK=TRUE python scripts/peak_frame_description.py`
+
+# Colab code to process the data
+
+https://colab.research.google.com/drive/16G0X94hrFYtICsbwSECzTISL7sFJ2aZ1#scrollTo=BMtiHza5p7mN
