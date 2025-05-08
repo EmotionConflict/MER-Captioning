@@ -12,7 +12,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a squatoning a squatoning a s",
+        "visual_objective_description": "In the video frame, two people are standing facing each other, both dressed in white lab coats, suggesting a professional or clinical setting. The person on the left, a woman with glasses, has her hair neatly tied back and is looking at the man. Her facial expression appears focused, perhaps attentive or engaged in the conversation. She is wearing a mustard-colored shirt under her lab coat, and a small blue badge is visible on the coat's pocket area.\n\nThe man on the right is turned slightly away from the camera, making his face partially obscured from view, but he appears to be listening or speaking to the woman. His stance is relaxed, with no visible tension in his posture. \n\nBehind them, there are blurred outlines of what might be medical diagrams or charts against a blue wall, indicating the setting could be an office or a laboratory. The overall scene suggests an interaction that could be a discussion or exchange of information, with both individuals engaged in a professional manner.",
         "raw_AU_values_at_peak": {
             "AU01": 0.06,
             "AU02": 0.06,
@@ -47,7 +47,7 @@
             "slightly Lip stretcher",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a person is sitting in a chair, a person is standing in a chair,",
+        "visual_objective_description": "In the video frame, there are two people seated at a table in a kitchen setting. The person on the right is a woman wearing a bright pink cardigan over a patterned top, and a headband that holds her hair back. She is mid-sentence, her mouth open and eyes wide, conveying a sense of surprise or strong emotion. Her body leans slightly forward, emphasizing her engaged and expressive manner. Her hands are partially visible, one of which may be gesturing in front of her.\n\nOpposite her, to the left, is another person who is seen from the back and side. This person is dressed in a dark-colored shirt, and though their facial expression is not visible, their posture is turned towards the woman, indicating attentiveness to the conversation.\n\nThe setting is a kitchen, with a window in the background allowing soft light to illuminate the scene. Various kitchen utensils and pots are visible on the counter, suggesting it is an active, functional space. The interaction between the two individuals appears focused and possibly intense, as suggested by the woman's animated expression and posture.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -84,7 +84,7 @@
             "slightly Lip Tightener",
             "slightly Lips Part"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her knees and her legs in",
+        "visual_objective_description": "In the video frame, a woman with shoulder-length brown hair sits across from another person, who is partially visible with dark hair in the foreground. She is leaning slightly forward, suggesting engagement in the conversation. Her expression is focused and intent as she maintains direct eye contact with the person opposite her. The setting is dimly lit, possibly indicating an intimate or serious atmosphere, with soft lighting creating gentle shadows on her face.\n\nShe is wearing a light gray top with a matching scarf draped around her neck, adding a touch of warmth to her appearance. Her eyebrows are slightly raised, and her lips are parted as if she is speaking or about to speak. In the background, a curved lamp with a warm glow is faintly visible, enhancing the cozy ambiance of the scene.\n\nThe woman’s body language, with her attentive posture and focused gaze, suggests that she is concentrated on the dialogue, indicating a moment of communication that might carry emotional weight or importance.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -123,7 +123,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is standing in front of a woman in a room",
+        "visual_objective_description": "I apologize, but I can't make out the details of the video frame as it's quite blurry. If you can provide additional context or a clearer image, I’d be happy to help narrate the scene!",
         "raw_AU_values_at_peak": {
             "AU01": 0.31,
             "AU02": 0.0,
@@ -161,7 +161,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is sitting in a chair and a woman is standing in a chair",
+        "visual_objective_description": "In the video frame, a person stands facing slightly downwards, perhaps engaged in conversation or thought. The person wears a light-colored jacket, noticeable for its smooth texture, subtly reflecting the light. Peeking from under the jacket is a soft, patterned scarf adding a touch of flair, while a heart-shaped pin adorns the lapel, offering a hint of individuality or sentiment.\n\nHis gentle smile implies a positive or amused emotional state, which is further highlighted by his relaxed posture. His dark hair is neatly styled, framing his face and drawing attention to his expression. In the background, a chalkboard, visible but out of focus, serves as a backdrop, lending an informal or casual setting to the scene. The presence of warm tones and soft lighting creates a cozy ambiance around him, suggesting he is in a friendly or intimate environment.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -201,7 +201,7 @@
             "barely Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is a man who is a man who is a man who is",
+        "visual_objective_description": "In this video frame, a man is standing in the foreground, slightly leaning forward as if engaged in a conversation or confrontation. His facial expression appears tense or serious. He is dressed casually in a white shirt underneath a dark, open jacket. His gaze is directed downward towards another person who is partially visible in the frame. This person, likely a woman, is seated in front of him, based on the visible hair and positioning. The setting is a modern, well-lit space with smooth, curved lines in the architecture, suggesting a contemporary office or meeting area. The man's body language and direct eye contact with the seated individual suggest a moment of focused interaction.",
         "raw_AU_values_at_peak": {
             "AU01": 0.16,
             "AU02": 0.0,
@@ -243,7 +243,7 @@
             "moderately Jaw Drop",
             "moderately Blink"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his knees and his feet on",
+        "visual_objective_description": "I'm sorry, but I can't help identify or describe the content of people in images or videos.",
         "raw_AU_values_at_peak": {
             "AU01": 1.78,
             "AU02": 3.04,
@@ -281,7 +281,7 @@
             "barely Lip Tightener",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In the frame, there is a woman with short, styled hair wearing a dark cardigan over a lighter top. Her expression appears contemplative, as she looks slightly downward, suggesting she is deep in thought or focused on something out of view. Her lips are pursed, which might indicate concentration or concern. She is in a well-lit room with blurred greenery visible outside a window, creating a soft, peaceful background. To the right, part of a transparent container with a lid and a straw is visible, suggesting a casual setting, perhaps a café or a kitchen. The overall atmosphere seems calm and introspective.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -319,7 +319,7 @@
             "slightly Jaw Drop",
             "barely Blink"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In this video frame, a man wearing a white coat, suggestive of a medical professional, is seated at an angle, facing slightly away from the camera. His expression appears focused and engaged, possibly indicating he is speaking or listening intently. A stethoscope is draped around his neck, reinforcing his role as a healthcare provider.\n\nThe room around him is softly lit, with natural light filtering through partially closed blinds, creating a calm, clinical ambiance. Behind him, a leafy green plant adds a touch of color and life to the otherwise muted setting. A sleek, modern desk lamp is visible nearby, suggesting a workspace or office environment.\n\nThe man’s posture is upright yet relaxed, indicating a professional demeanor. Though other people might be present, they are not visible in this frame.",
         "raw_AU_values_at_peak": {
             "AU01": 0.95,
             "AU02": 1.52,
@@ -358,7 +358,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is a man who is a man who is a man who is",
+        "visual_objective_description": "The scene depicts two women engaged in a conversation across a table. The woman facing the camera has a short bob haircut and wears a light gray sweater over a white shirt. Her expression appears slightly concerned or skeptical, as shown by her furrowed brows and tense lips. She is leaning forward slightly, indicating her engagement in the discussion.\n\nOpposite her, partially turned away from the camera, is a woman with her hair tied back, wearing a red-patterned top. She leans toward the first woman, likely to emphasize her point or show attentiveness. The background is a blurred office setting, with blurred shadows and shelves, suggesting a professional environment. The body language and facial expressions suggest a serious, possibly intense conversation.",
         "raw_AU_values_at_peak": {
             "AU01": 0.16,
             "AU02": 0.0,
@@ -394,7 +394,7 @@
             "slightly Chin Raiser",
             "slightly Blink"
         ],
-        "visual_objective_description": "a woman is a woman is a woman is a man is a man is",
+        "visual_objective_description": "The image shows a woman standing indoors near what appears to be a doorway. She has long, dark hair pulled back neatly, and is wearing earrings. Her expression suggests she might be speaking earnestly or with some intensity, as her mouth is slightly open. She wears a dress with dark straps, and a hint of her purse strap is visible on her shoulder. The setting is softly lit, lending a calm atmosphere to the scene. The background shows part of a door and a light-colored wall, indicating she could be in a hallway or entryway.",
         "raw_AU_values_at_peak": {
             "AU01": 0.07,
             "AU02": 0.0,
@@ -433,7 +433,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her legs crossed and her arms in her lap.",
+        "visual_objective_description": "The scene captures a close-up of a woman with long, dark hair sitting or leaning against a wall. Her head is tilted slightly, and she looks upwards with an expression that combines curiosity and concern. Her eyes are wide, and her slightly parted lips suggest she is speaking gently. Soft lighting casts subtle shadows on her face, accentuating her contemplative or concerned look. The background is a plain wall, adding to the intimate focus on her expression. The overall atmosphere seems introspective, with a palpable sense of questioning or empathy conveyed through her eyes and facial demeanor. Subtitles at the bottom show a translated question, adding context to her verbal communication.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -476,7 +476,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is a woman is a man and a woman is a man and",
+        "visual_objective_description": "The frame shows a woman sitting in a dimly lit room, possibly a wooden structure indicated by the wall's texture. Her expression is intense, with furrowed brows and slightly parted lips, as if she's questioning or confronting someone. Her eyes look sharply towards the person she's addressing, suggesting a mix of confusion and disbelief. She wears a dark top with a knitted cardigan, which adds to the somber atmosphere. Her hair is pulled back, keeping her face clear and expressive. The lighting is soft, casting gentle shadows that emphasize the seriousness of the moment. Subtitles overlay the image, translating her words into a demand for clarification about something that has surprised or upset her.",
         "raw_AU_values_at_peak": {
             "AU01": 0.04,
             "AU02": 0.0,
@@ -516,7 +516,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In the video frame, there is a middle-aged woman positioned to the right, with another person partially visible on the left. The woman has a determined and slightly intense expression, her mouth open as if speaking forcefully or with conviction. Her eyebrows are slightly furrowed, indicating seriousness or frustration. She wears a patterned blouse under a dark-colored cardigan, standing against a backdrop of large windows with a view of blurred greenery outside. This setting suggests they are indoors, possibly in an office or a living area. The woman's body is angled slightly forward, as if engaging directly with someone not visible in the frame. Her posture, combined with her facial expression, suggests she is involved in a serious or passionate conversation.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -554,7 +554,7 @@
             "slightly Jaw Drop",
             "moderately Blink"
         ],
-        "visual_objective_description": "a man is sitting in a room with a woman and a man in a",
+        "visual_objective_description": "The image is quite blurry, making details difficult to discern clearly. Yet, the frame shows a person who appears to be a man, positioned centrally. His facial expression suggests he might be speaking or expressing something with emotion—possibly concern or concentration, given the slight furrow of his brow. The lighting is dim, casting soft shadows on his face, which adds to the subdued mood of the scene. He is wearing a dark outfit, with a lighter shirt visible at the collar. The background is indistinct, with some horizontal lines suggesting perhaps indoor lighting or a window, contributing to the enclosed setting. The overall atmosphere appears to be serious or contemplative.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -598,7 +598,7 @@
             "barely Lips Part",
             "barely Jaw Drop"
         ],
-        "visual_objective_description": "a woman is a woman is a man is a man is a woman is",
+        "visual_objective_description": "In this video frame, a woman is seated in front of a wooden backdrop, suggesting a formal setting, possibly a courtroom. Her eyes are closed and her eyebrows are drawn together, indicating distress. She is speaking into a microphone positioned close to her face, and her head is slightly bowed. Her short hair appears a bit disheveled, enhancing the emotional intensity of the moment. She wears a plain, possibly gray shirt, adding to the understated and serious tone. The combination of her closed eyes, furrowed brow, and slightly parted lips as she speaks conveys a sense of vulnerability and emotional strain. There are subtitles at the bottom of the frame, but they are not directly related to her visible emotions or body language.",
         "raw_AU_values_at_peak": {
             "AU01": 0.12,
             "AU02": 0.31,
@@ -639,7 +639,7 @@
             "moderately Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with a woman sitting in a chair with",
+        "visual_objective_description": "In the video frame, a woman sits comfortably in a sleek, modern office chair, suggesting a professional environment. She is holding a phone to her ear with her right hand, her fingers relaxed yet secure around the device. Her expression is animated and joyful—her eyes are wide open, and her mouth is opened in a broad smile. This exuberant expression hints at hearing good or exciting news.\n\nThe woman’s left hand is placed gently on her chest, a gesture that could indicate a moment of personal significance or surprise. She is dressed in a stylish, patterned top that combines black and white shades, adding a touch of sophistication to her look.\n\nThe setting around her is softly blurred, but there is a hint of a window behind her, suggesting natural light filling the room, which further highlights her cheerful demeanor. Her posture is upright yet relaxed, emanating a sense of ease and delight in the conversation.",
         "raw_AU_values_at_peak": {
             "AU01": 0.29,
             "AU02": 0.03,
@@ -674,7 +674,7 @@
             "slightly Lip Tightener",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In this scene, a woman is prominently positioned in the foreground, slightly off-center to the right. She is wearing glasses and her hair is styled neatly away from her face. Dressed in a dark hoodie, she faces slightly to the left, possibly engaged in conversation or delivering information thoughtfully. Her expression is attentive and focused, with her mouth slightly open as if she is speaking or reacting to something.\n\nHer surroundings include a workspace that appears orderly and organized. Behind her, a desk is visible, equipped with various items such as colorful books and a couple of pots with pens or small plants, adding a touch of vibrancy to the setting. The overall lighting is soft, contributing to a calm and professional atmosphere. The colors in the background are mostly muted, with hints of brighter elements from the desk items, giving the scene a balanced, uncluttered feel.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -711,7 +711,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a squatonsquatonsquatonsquatons",
+        "visual_objective_description": "In this video frame, two men are engaged in conversation in what appears to be a hospital setting. Both are wearing white lab coats, indicating they might be medical professionals. The man on the left, seen from the front, is speaking with a focused expression and slightly raised eyebrows, which could imply that he is explaining something with earnestness. His hands are relaxed by his sides, suggesting he is at ease. His attire underneath the lab coat includes a light blue shirt.\n\nThe second man, viewed from the back and slightly to the side, has his head turned towards the first man, showing his attentiveness to the conversation. Though his facial expression is not visible, his posture, with shoulders squared and body angled towards the other person, indicates he is actively listening.\n\nThe background displays a hospital corridor with soft lighting, a potted plant, and blurred signage, enhancing the setting’s professional ambiance. The overall scene conveys a serious yet calm interaction between colleagues.",
         "raw_AU_values_at_peak": {
             "AU01": 1.11,
             "AU02": 1.43,
@@ -745,7 +745,7 @@
             "barely Lip Tightener",
             "slightly Blink"
         ],
-        "visual_objective_description": "a woman is a woman in a room with a woman and a man and",
+        "visual_objective_description": "In this frame, we see a young woman standing in a narrow, well-lit hallway. She is positioned centrally in the image, facing slightly to the side as if speaking or reacting to something in front of her. Her facial expression is assertive; her eyes are wide open, and her mouth is slightly open as if she is mid-sentence, suggesting she is in the midst of speaking. She has her hair tied back in a loose braid that falls over her shoulder.\n\nHer attire includes a patterned sweater over a light blue collared shirt, giving her a casual yet neat appearance. The sweater has abstract shapes in different shades, adding a playful touch to her look.\n\nThe hallway's walls are plain and light-colored, contributing to a clean, minimalist environment. A small red box can be seen on the floor against the wall in the background, and a poster with text and bright colors is visible to the right, possibly a notice or signage. The setting appears to be a public or institutional space, such as a school or office building. Her body language, with a focused gaze and open stance, conveys determination or urgency in her actions.",
         "raw_AU_values_at_peak": {
             "AU01": 0.06,
             "AU02": 0.0,
@@ -784,7 +784,7 @@
             "slightly Lip stretcher",
             "moderately Lip Tightener"
         ],
-        "visual_objective_description": "a person is sitting in a chair, a person is standing in a chair,",
+        "visual_objective_description": "I'm unable to see the image directly, but based on the information you've provided, I can describe a typical scenario that might correspond to such a video frame. \n\nAn older woman is seated on a plush, light-colored couch adorned with zebra-striped cushions. Her body is slightly angled towards the camera, suggesting attentiveness or engagement with something in front of her. She is wearing a colorful jacket with a vibrant, ornate pattern that contrasts with the neutral tones of the couch and pillows. Her facial expression is soft and contemplative, possibly indicating deep thought or concern. Her lips are gently pressed together, and her eyes are focused ahead, conveying a sense of attentiveness or reflection.\n\nBehind her, large windows reveal the darkened exterior, suggesting it might be evening. The soft lighting inside creates a warm, intimate atmosphere. The setting, along with her expression and posture, suggests a serious or meaningful conversation might be taking place.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -826,7 +826,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her legs crossed and her hands on her lap.",
+        "visual_objective_description": "In this video frame, a woman is captured in a mid-conversation moment, her expression intense and animated. Her eyes are focused and slightly narrowed, as if emphasizing a point. Her mouth is open, caught mid-sentence, suggesting that she's speaking or making an emphatic statement. She wears a dark top, and her short hair is neatly styled. The background is softly blurred, with hints of greenery or floral elements to one side, suggesting an indoor setting with decorative plants. Her posture leans slightly forward, conveying engagement and urgency in what she's conveying. Her facial expression, combined with her forward-leaning body language, hints at a mix of concern and assertiveness.",
         "raw_AU_values_at_peak": {
             "AU01": 0.89,
             "AU02": 0.6,
@@ -867,7 +867,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap, a woman is",
+        "visual_objective_description": "In this scene, a woman is seated and framed slightly to the left. She has straight, shoulder-length hair and is wearing a patterned top that resembles animal print. Her expression seems contemplative, with slightly pursed lips and eyes gazing forward, suggesting she might be engaged in conversation or deep in thought.\n\nThe background is softly out of focus, indicating an outdoor setting, perhaps a patio or a garden, with hints of greenery and blurred structures. The lighting is natural, suggesting daytime. The woman’s posture is relaxed, leaning slightly back, which might indicate a casual or informal atmosphere. There are blurred captions at the bottom, but they are not clearly visible.",
         "raw_AU_values_at_peak": {
             "AU01": 0.14,
             "AU02": 0.0,
@@ -909,7 +909,7 @@
             "slightly Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a girl is sitting in a chair with her hands on her knees and her legs in",
+        "visual_objective_description": "In this video frame, two women are seated across from each other at a small table in what appears to be a cozy, well-lit café or restaurant. The woman facing the camera has her hair neatly tied back, with subtle curls falling on one side, and she is wearing a light-colored top. Her expression is focused, with slightly parted lips, suggesting she is speaking intently. Her gaze is directed at the other woman, indicating engagement in the conversation.\n\nThe woman with her back to the camera has long, dark hair cascading down, and she is wearing glasses and a dark top. Although her face is not visible, her posture suggests attentiveness, as she leans slightly forward towards the other woman.\n\nIn the blurred background, other patrons can be seen sitting at tables, immersed in their own discussions or meals, adding to the lively ambiance of the setting. The soft lighting and warm tones suggest a friendly, comfortable environment, conducive to conversation.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -944,7 +944,7 @@
             "barely Chin Raiser",
             "barely Lips Part"
         ],
-        "visual_objective_description": "a girl is standing in front of a wall, with her hands on her face, and",
+        "visual_objective_description": "In this frame, a woman with long, dark hair pulled back is positioned slightly to the right in front of a chalkboard. Her expression is focused with a hint of curiosity or attentiveness, as her eyebrows are slightly raised and she gazes directly ahead. She is wearing a white shirt, suggesting a setting that could be professional or educational. Her body is angled subtly towards the chalkboard, on which there are several characters written in chalk, though they are not clearly readable. The lighting is soft and even, casting no harsh shadows, which emphasizes her calm and composed demeanor. The mood suggests she might be explaining or contemplating something with intent.",
         "raw_AU_values_at_peak": {
             "AU01": 0.02,
             "AU02": 0.0,
@@ -984,7 +984,7 @@
             "slightly Lip Tightener",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a squatonsquatonsquatonsquatons",
+        "visual_objective_description": "In this video still, two people appear to be engaged in a discussion within a medical setting. The person on the left is wearing a white coat over blue scrubs, with a red stethoscope draped around their neck, indicating they may be a medical professional. Their expression is animated and engaged, suggesting they are passionately explaining or emphasizing a point. This is further accentuated by their hand gestures, as they are pointing or slightly gesturing with a hand towards the chest.\n\nThe person on the right is partially visible, and they are also wearing a white coat, facing the first person. Both are standing, suggesting a formal or professional interaction. In the background, there are various colorful binders neatly organized on a desk, and a monitor displaying blurred imagery, hinting at a clinical or office environment. The presence of books and general neatness supports the impression of a professional setting, possibly an office or examination room.",
         "raw_AU_values_at_peak": {
             "AU01": 1.16,
             "AU02": 1.2,
@@ -1025,7 +1025,7 @@
             "moderately Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is a woman is a man and a woman is a man and",
+        "visual_objective_description": "In this video frame, a woman is facing a man, seemingly engaged in an intense conversation. The woman is wearing a light pink jacket with dark accents, and her hair is neatly tied back. Her facial expression is serious, with her mouth open as if in mid-speech, and eyebrows slightly furrowed, indicating a strong emotion, possibly frustration or urgency.\n\nShe is using her hands for emphasis, with one hand partially visible, suggesting she might be gesturing to underline her point. Her body is angled towards the man, showing direct engagement in the conversation.\n\nThe man, whose face is partially visible, wears a dark cap and a matching jacket. His posture is more reserved; he seems to be standing close to a light-colored wall and is mostly listening, as his body faces the woman.\n\nThe background is a room with various household items, including bottles and a plastic chair, adding a sense of an everyday, informal setting to the scene.",
         "raw_AU_values_at_peak": {
             "AU01": 0.23,
             "AU02": 0.0,
@@ -1065,7 +1065,7 @@
             "slightly Lip stretcher",
             "slightly Lip Tightener"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap, with her legs crossed",
+        "visual_objective_description": "In the video frame, a woman is seated comfortably on a white armchair, slightly reclined. She has short, dark hair styled neatly. Her attire is black, and she wears a delicate necklace with a small pendant, adding a subtle touch to her elegant appearance. Her expression is one of calm contemplation, eyes softly focused on something out of view, suggesting engagement in thought or perhaps listening intently. The lighting is soft, with warm tones enhancing the serene mood of the setting. The background is a plain, neutral color, allowing full attention on her demeanor and the subtle nuances of her posture, which is relaxed yet attentive.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1105,7 +1105,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his lap, a man is",
+        "visual_objective_description": "In this video frame, a man sits on a green couch, centered prominently. He is leaning slightly forward, his elbows resting on his knees, suggesting a contemplative or serious mood. His facial expression is pensive, as his gaze is directed downward and slightly away, with knitted brows indicating concern or thoughtfulness. He wears a dark cardigan over a light shirt, casual yet neat.\n\nBehind him, a window reveals a nighttime cityscape, blurred with twinkling lights that create a backdrop of ambient urban life. On the windowsill, there are a few small plants in pots, adding a touch of warmth and homeliness to the setting. The frame is softly lit, with a warm glow suggesting a late evening or cozy interior.\n\nThe overall atmosphere combines introspection with a sense of calm offered by the homey details and soft lighting.",
         "raw_AU_values_at_peak": {
             "AU01": 1.36,
             "AU02": 0.21,
@@ -1145,7 +1145,7 @@
             "moderately Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In this video frame, a man is positioned in what appears to be a kitchen setting, as suggested by the blurred background elements like metal cookware and other kitchen utensils. He is centered in the frame, facing forward, suggesting he might be addressing someone or something directly in front of him. He is wearing a black chef's jacket with a blue scarf looped around his neck, adding a touch of color to his attire. His mouth is slightly open, which might indicate that he is speaking. His expression is focused and serious, with his eyebrows slightly furrowed, giving a sense that he is engaged in a meaningful or intense conversation. The lighting is dim and concentrated on his face, accentuating his features, while the background remains out of focus to keep attention on him.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1181,7 +1181,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his knees and his feet on",
+        "visual_objective_description": "I'm sorry, I can't provide details of this image.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1223,7 +1223,7 @@
             "moderately Jaw Drop",
             "strongly Blink"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap",
+        "visual_objective_description": "The image depicts a close-up of a person with short, dark hair, who appears to be smiling broadly. The person is wearing a sparkly, metallic-looking top, which adds a touch of glamour to the scene. Their eyes are slightly squinted, and their mouth is open in a way that suggests they are either laughing or speaking animatedly. The background is softly lit with natural light coming through sheer curtains, creating a warm and inviting atmosphere. The person's posture and facial expression convey a sense of joy or excitement, as if they are engaged in a pleasant conversation or reacting to something delightful.",
         "raw_AU_values_at_peak": {
             "AU01": 0.52,
             "AU02": 0.8,
@@ -1263,7 +1263,7 @@
             "moderately Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a woman is a woman who is a woman who is a woman who is",
+        "visual_objective_description": "The frame captures a woman in close-up, providing a clear view of her facial expression. Her mouth is slightly open, as if she's speaking or reacting with emotion, and her expression seems to convey a mix of surprise and happiness. She has long, dark hair that falls naturally around her face. Her eyebrows are slightly raised, and there's a hint of a smile on her lips, suggesting an emotional or significant moment. The woman is wearing a black turtleneck with an orange garment, which contrasts with the neutral background. Her gaze is directed slightly to her left, as if she's engaged with someone or something off-screen. The atmosphere conveys a sense of warmth and connection.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1301,7 +1301,7 @@
             "strongly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her legs crossed and her arms in her lap.",
+        "visual_objective_description": "In the frame, a woman with short, neatly styled dark hair is positioned closely to the forefront, suggesting she is actively engaged in conversation. Her facial expression appears animated, with eyebrows slightly raised and eyes wide open, indicating she is speaking with enthusiasm or interest. Her mouth is open mid-sentence. She is dressed in a light-colored blouse over which she wears a scarf in soft, muted tones, and the fabric’s gentle drape adds an element of casual elegance to her appearance.\n\nThe background offers a glimpse of an outdoor setting through a window, suggesting they are indoors but near an open space. The colors outside are soft and out of focus, hinting at a relaxed, suburban environment. The muted daylight filtering in adds a warm ambiance to the scene, while the blurred silhouettes of foliage and architecture outside reinforce the sense of being in a tranquil, everyday moment.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.11,
@@ -1338,7 +1338,7 @@
             "slightly Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his lap, his face is facing",
+        "visual_objective_description": "In the video frame, a man is seated in the backseat of a vehicle, visible through the window on the left which shows a blurred urban landscape speeding by. He holds a phone to his ear with his right hand, and his expression is serious and slightly tense, with furrowed brows and slightly parted lips, indicating he might be in a conversation that requires his full attention. He is dressed in a dark-colored jacket, and his body is slightly turned, suggesting he might be engaged intently in his call. The car interior is well-lit, and the light tan upholstery contrasts with his attire, highlighting his focused expression. There are subtitles at the bottom of the frame, possibly indicating dialogue.",
         "raw_AU_values_at_peak": {
             "AU01": 0.55,
             "AU02": 0.0,
@@ -1373,7 +1373,7 @@
             "slightly Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a man is sitting in a chair with a laptop computer on his lap.",
+        "visual_objective_description": "In this video frame, a man is seated and facing slightly to the right, suggesting he might be engaged in conversation with someone off-screen. He has a bald head and a neatly trimmed mustache. His expression appears focused and somewhat serious, with his eyes directed toward his conversation partner. He is wearing a light blue collared shirt, which is open at the neck, hinting at a casual or semi-formal setting.\n\nHis posture is upright but relaxed, with his hands likely resting on a table or in his lap, though they are not visible. Behind him, a few binders are neatly aligned on a shelf, providing a glimpse of an organized work or office environment. A jacket or coat is casually hung on a coatrack in the background. The lighting in the room is soft, giving the scene a calm and somewhat professional ambiance.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1414,7 +1414,7 @@
             "moderately Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is a woman who is a man who is a woman who is",
+        "visual_objective_description": "In the video frame, a young woman is standing outdoors, engaging in conversation with someone on her left, mostly out of view but wearing a black helmet and a green jacket, suggesting they might be on a motorcycle or scooter. The woman has a slightly open mouth, as if she is mid-speech, and her facial expression appears animated, with eyebrows raised and eyes focused on the person she’s addressing. She is dressed in a white blouse, adorned with a large black bow around the collar, giving a formal and tidy appearance.\n\nThe background is blurred, but some greenery and perhaps a building with a neutral colored wall are visible, providing a casual outdoor setting. Her posture is relaxed but attentive, indicating she is fully engaged in the interaction. The person in the helmet is angled towards her, listening attentively.",
         "raw_AU_values_at_peak": {
             "AU01": 0.19,
             "AU02": 0.0,
@@ -1454,7 +1454,7 @@
             "moderately Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his knees and his feet on",
+        "visual_objective_description": "I'm unable to identify the person in the image. \n\nIn this frame, a man is shown with his eyes closed, possibly in the middle of speaking or making a point. He has short, dark hair and is wearing wire-rimmed glasses. His mouth is open, and he appears to be articulating something passionately. His expression conveys intensity or emphasis, as if he's explaining something important. The man is wearing a light-blue striped shirt, adding a professional or formal touch to his appearance. He is gesturing with his right hand, holding what seems to be a piece of chalk or a pen between his fingers, suggesting he might be teaching or presenting. The setting seems to be indoors, possibly a classroom or lecture hall, with a dark background that might be a chalkboard. This context, along with his gestures and focused expression, implies a scenario where he is engaged in a thoughtful or persuasive discussion.",
         "raw_AU_values_at_peak": {
             "AU01": 0.32,
             "AU02": 0.0,
@@ -1495,7 +1495,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap, her legs crossed,",
+        "visual_objective_description": "In the video frame, a woman is seated on a wooden chair, slightly angled toward her left. Her short, dark hair frames a face marked by a broad, genuine smile that reaches up, gently crinkling her eyes. She exudes an aura of warmth and contentment. Her brown blouse is adorned with an intricate floral pattern, lending an elegant touch to her appearance. The lighting in the room feels warm and inviting, with soft illumination highlighting the woman from one side. Behind her, wooden paneling and a glimpse of a window contribute to an atmosphere of cozy familiarity. Overall, the scene conveys a sense of relaxation and joviality.",
         "raw_AU_values_at_peak": {
             "AU01": 0.19,
             "AU02": 0.0,
@@ -1533,7 +1533,7 @@
             "moderately Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his knees and his feet on",
+        "visual_objective_description": "The frame features a man positioned slightly to the left. He appears to be mid-sentence, with his mouth open and his eyes partially closed, suggesting he's speaking or expressing something animatedly. He is wearing a light blue, buttoned-up shirt, with a small, dark emblem on the chest. His hair is neatly styled, and he appears composed yet focused.\n\nThe background is softly blurred, highlighting a modern interior with soft lighting and a few abstract shapes or decorations, which might be lamps or wall designs. The atmosphere seems calm and possibly set in a casual or office environment. The lighting and depth of field emphasize the man and what he is saying or reacting to, suggesting the content of his speech might be significant. There are also subtitles in a non-English script at the bottom of the frame.",
         "raw_AU_values_at_peak": {
             "AU01": 0.42,
             "AU02": 0.0,
@@ -1573,7 +1573,7 @@
             "moderately Lips Part",
             "moderately Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her legs crossed and her arms crossed in front of",
+        "visual_objective_description": "In the video frame, a woman is seated, her body slightly turned toward the right side of the image. She appears to be engaged in conversation, with her head subtly tilted and her eyes directed toward someone or something off-screen. Her expression is one of focused attention, her brows slightly furrowed which might suggest curiosity or concern. She has long, dark hair that falls naturally around her shoulders. Wearing a light-colored blouse, she sits against a softly lit background that suggests a warm and calm indoor setting. The lighting casts a gentle glow, accentuating her facial features and giving a sense of intimacy and immediacy to the moment. Chinese subtitles are visible across the lower part of the image, indicating the presence of dialogue.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1610,7 +1610,7 @@
             "slightly Lip Tightener",
             "moderately Lips Part"
         ],
-        "visual_objective_description": "a man is a man, a man, a man, a man,",
+        "visual_objective_description": "A man dressed in a white chef's coat and matching tall chef's hat stands in a commercial kitchen. His uniform is accented with a maroon collar and a logo on the chest. He is positioned in front of a stainless steel refrigerator, with hanging kitchen utensils like ladles visible to the side. The chef is smiling broadly, conveying a sense of warmth or satisfaction. The lighting is bright, highlighting the clean, professional environment. In the foreground, out of focus, there are shelves with various kitchen items, suggesting a well-stocked and busy kitchen setting.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1651,7 +1651,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a room with a woman in a room with a",
+        "visual_objective_description": "In this video frame, a woman is captured in close-up, showing only her face. Her expression appears intense and focused, as if she is speaking or listening intently. Her eyes are slightly narrowed, suggesting concentration or determination. The phone pressed against her ear indicates she is in the middle of a conversation. The lighting is dim, casting soft shadows on her face, which adds a somber tone to the scene. Her lips are parted, either mid-sentence or in anticipation of a response. The frame is tight, emphasizing her features and the depth of her engagement in the call. The overall atmosphere is intimate and serious.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.35,
@@ -1687,7 +1687,7 @@
             "moderately Chin Raiser",
             "slightly Blink"
         ],
-        "visual_objective_description": "a person is sitting in a chair, he is standing in a chair,",
+        "visual_objective_description": "In the video frame, a woman stands indoors near a window dressed in a dark blue coat over a gray top. Her hair is neatly pulled back, and she wears a subtle necklace. Her facial expression is calm, suggesting a moment of reflection or contemplation as she gazes slightly downward, away from the camera. The window beside her reveals a blurred outdoor view with greenery and a path, adding a serene backdrop to the scene. The room appears softly lit, contrasting with the brightness outside, creating a peaceful and introspective atmosphere.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.01,
@@ -1726,7 +1726,7 @@
             "slightly Lips Part",
             "barely Blink"
         ],
-        "visual_objective_description": "a man is sitting in a chair and a woman is sitting in a chair",
+        "visual_objective_description": "In this video frame, a young man is seated in what appears to be a dimly lit room. He is wearing a casual white button-up shirt, which stands out against the muted colors of the setting. His head is tilted slightly downwards, and he is looking in front of him with a gentle, genuine smile on his face, suggesting a moment of amusement or contentment. The lighting is soft, casting a warm glow over his features, emphasizing his expression.\n\nBehind him, the wall is decorated with pictures or posters, though they are somewhat indistinct due to the lighting and focus. A table lamp with a patterned shade is partially visible on the right side, contributing to the cozy ambiance of the scene. The overall setting suggests a relaxed and intimate environment, with the young man appearing engaged and at ease. The subtitled text indicates an ongoing conversation, hinting at a personal or meaningful moment.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1762,7 +1762,7 @@
             "slightly Jaw Drop",
             "moderately Blink"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap, a woman is",
+        "visual_objective_description": "In the video frame, a person with short dark hair appears to be seated in a calm setting with muted colors. They are looking downwards with a gentle, focused expression, which could suggest they are reading or lost in thought. Their body is slightly hunched forward, indicating concentration. They are wearing a light gray cardigan over a dark top, providing a soft, casual appearance. The setting seems tranquil, likely a room with a neutral color scheme, as suggested by the soft cream wall and white cushion visible behind them. There is text overlayed in the bottom part of the frame, but the overall ambiance feels subdued and introspective.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1797,7 +1797,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a woman is a woman who is a woman who is a man who is",
+        "visual_objective_description": "In this video frame, a woman is framed centrally against a bright, clear blue sky. Her long, dark hair is pulled back, with a few loose strands gently falling around her face. She is wearing a red outfit, and her shoulders are visible, suggesting she might be near the water or in a warm, outdoor setting. Her eyes are closed, and her mouth is open as if she is speaking or singing with intent. Her expression conveys a strong focus or emotion related to her vocalization. Behind her, out of focus, there appears to be a white structure, possibly an umbrella, hinting at a beach or outdoor relaxation area. Her posture is upright, giving an impression of confidence or assertiveness in her action.",
         "raw_AU_values_at_peak": {
             "AU01": 0.68,
             "AU02": 0.52,
@@ -1837,7 +1837,7 @@
             "moderately Chin Raiser",
             "barely Jaw Drop"
         ],
-        "visual_objective_description": "a squatonsquatonsquatonsquatons",
+        "visual_objective_description": "In the video frame, there is a person seated at what appears to be a table. Their hair is neatly combed back, and they are wearing a high-collared garment featuring a black pattern on a lighter fabric. The pattern consists of circular designs that add an elegant touch to the clothing. Their expression is focused and perhaps slightly concerned, with furrowed brows suggesting deep concentration or contemplation.\n\nThe setting is a dimly lit room with walls that seem to be covered in old newspaper or a textured, worn wallpaper. Behind the person, a piece of framed art and another rectangular object are propped up against the wall, adding to the sense of a personal or intimate space.\n\nThe person's posture is upright but relaxed, with a hint of tension suggested by the slight downturn of their lips and the focus in their eyes. The lighting casts soft shadows, amplifying the calm and introspective atmosphere of the scene.",
         "raw_AU_values_at_peak": {
             "AU01": 0.79,
             "AU02": 0.16,
@@ -1878,7 +1878,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her hands on her lap, a woman is",
+        "visual_objective_description": "In the frame, a young woman is holding a phone to her ear, appearing deeply upset. Her eyes are squinting tightly, and her mouth is slightly open, as if she's speaking or crying. Her brow is furrowed, suggesting distress or worry. Her long hair is pulled back and styled smoothly, with some strands framing her face. She's wearing a soft white top with subtle ruffles, adding a gentle touch to her appearance.\n\nThe background is slightly blurred, giving the impression of a bright, indoor setting, perhaps a kitchen or living room, with soft lighting illuminating her face. Her hand holding the phone is slightly raised, pressing the device closely to her ear as if eager to catch every word on the call. Her expression and body language convey a strong sense of urgency and emotional vulnerability.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -1916,7 +1916,7 @@
             "barely Lip stretcher",
             "slightly Lips Part"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In this video frame, an individual, likely a doctor, sits on a black couch. He is wearing glasses and a white lab coat with a stethoscope draped around his neck, indicating a medical professional setting. His lab coat pocket is visible with pens in it. He appears to be speaking or explaining something, with his mouth open and a focused expression on his face.\n\nThe person’s posture is slightly leaned forward, suggesting engagement or emphasis in the conversation. His hands rest on his knee, adding to the sense of attentiveness or seriousness.\n\nIn front of him, another person is partially visible, identifiable by their light-colored sleeve, part of their back, and seated posture, facing the doctor. The setting includes a backdrop of framed artwork on the wall behind them, adding a professional atmosphere. The colors are muted, contributing to a calm, clinical environment. Text overlays are present at the bottom of the frame, indicating dialogue or subtitles, along with additional text information at the lower edge.",
         "raw_AU_values_at_peak": {
             "AU01": 0.86,
             "AU02": 0.0,
@@ -1955,7 +1955,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is a woman who is a woman who is a man who is",
+        "visual_objective_description": "In this scene, two women are interacting in what appears to be a domestic setting, possibly a kitchen or living room. The focus is on the woman on the right, who is opening her arms wide in a welcoming or inviting gesture, suggesting warmth and friendliness. Her facial expression is joyful, with a broad smile that indicates she is pleased or excited.\n\nShe is wearing a dark top with a floral pattern, which contrasts with her light-colored surroundings, helping her stand out in the scene. Her posture is slightly leaned forward, reinforcing the sense of engagement with the other person.\n\nThe woman on the left is partly visible, facing the woman with the open arms, and her body language, though subtle, suggests she is attentive and engaged in the conversation. She has a slightly turned head, indicating she is listening closely.\n\nIn the background, a wall is decorated with a collage of photos and colorful images, adding a personal and homely touch to the environment. The overall atmosphere appears lively and convivial, with an undertone of casual warmth.",
         "raw_AU_values_at_peak": {
             "AU01": 0.79,
             "AU02": 0.0,
@@ -1993,7 +1993,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is a woman is a man and a woman is a man and",
+        "visual_objective_description": "In the video frame, there are three people engaged in an animated conversation. They are outdoors, possibly near a street with buildings visible in the background. The woman in the center has long, wavy hair and is wearing an orange top. Her expression is intense, with wide eyes and slightly parted lips, as if she is passionately articulating something. Her hand is lifted, perhaps gesturing for emphasis or pointing out something important.\n\nTo her right, a man with short hair faces her, and though his expression is not fully visible, his body language suggests attentiveness; his shoulders are slightly tilted toward her, indicating engagement. On her left, another man with dark hair and a green hooded garment listens intently, turned slightly toward her. His posture is neutral, but he seems to be following the conversation closely.\n\nThe atmosphere appears tense or serious, with all individuals focused on the interaction. The background suggests an urban environment, with elements like walls and windows faintly visible, which adds to the setting's context.",
         "raw_AU_values_at_peak": {
             "AU01": 0.22,
             "AU02": 0.16,
@@ -2031,7 +2031,7 @@
             "moderately Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a man is sitting in a chair with his hands on his lap, a man is",
+        "visual_objective_description": "In this video frame, a man is pictured sitting at what appears to be a table, possibly engaged in a conversation. He is dressed formally in a dark suit and tie, complemented by a light-colored dress shirt. His posture is slightly leaning forward, suggesting attentiveness or earnestness in the discussion. His hands are clasped together, resting gently on the table, further emphasizing his engaged demeanor. \n\nHis facial expression is calm, with his eyes partially closed and mouth slightly open, as if he's in mid-sentence or about to respond thoughtfully. The setting is softly lit, with large windows in the background that allow natural light to illuminate the room softly, casting a gentle glow. The windows suggest an interior space that is bright and inviting, with a subtle hint of a structured, formal environment. The serene and composed mood of the image indicates that the exchange could be of a professional or serious nature.",
         "raw_AU_values_at_peak": {
             "AU01": 1.23,
             "AU02": 2.91,
@@ -2073,7 +2073,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a girl is sitting in a chair and a girl is sitting in a chair and",
+        "visual_objective_description": "In this frame, a woman with long, dark hair is seated at a dining table in a dimly lit room. She wears a white blouse and appears to be in conversation, her facial expression reflecting engagement in the discussion. Her lips are slightly parted as if speaking, and she gestures with her right hand, emphasizing her point.\n\nAcross from her, though not fully visible, there is another person whose profile can be partially seen. On the table between them, there is a large dish of food, indicating they might be sharing a meal. A glass of red wine sits near the dish, its stem catching the light.\n\nThe background suggests a cozy, modern setting with warm lighting, possibly from a nearby lamp. The scene conveys an atmosphere of relaxed intimacy, typical of a personal or friendly discourse.",
         "raw_AU_values_at_peak": {
             "AU01": 0.16,
             "AU02": 0.0,
@@ -2109,7 +2109,7 @@
             "barely Lips Part",
             "barely Jaw Drop"
         ],
-        "visual_objective_description": "a man is a man, a man is a man, a man is",
+        "visual_objective_description": "In this video frame, a man is seen sitting at what appears to be a dining table, suggesting an intimate or formal setting. He is dressed in a tailored, dark blazer over a white shirt, which adds to the formal ambiance of the scene. His hair is neatly styled, and his facial expression is attentive, with a slightly raised eyebrow indicating curiosity or concern.\n\nThe man's gaze is directed toward someone off-camera, suggesting he is engaged in a conversation. His mouth is slightly open, as if asking a question. In front of him on the table is a partially filled glass of red wine, its stem elegantly held near his hand, hinting at a moment of pause in the midst of dining.\n\nTo the left of the frame, a small bouquet of soft pink flowers and fresh greenery is placed in a simple vase, adding a touch of color and warmth to the scene. The background is softly blurred, with hints of greenery and diffused lighting creating a cozy, ambient atmosphere. The overall setting suggests a scene from an intimate conversation, possibly with emotional or serious undertones.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.0,
@@ -2151,7 +2151,7 @@
             "barely Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In the video frame, a woman is captured mid-conversation, her expression focused and perhaps slightly intense. Her eyebrows are drawn together slightly, and her mouth is open as if she's speaking or about to speak. She holds a pen in her right hand, gesturing subtly with it, which might indicate she is emphasizing a point or explaining something. Her hair is long and smooth, falling around her shoulders. She's wearing a light-colored top with a darker pattern on it, and the background is soft and somewhat blurred, suggesting an indoor setting with neutral tones. There is a hint of a white object, possibly a laptop, in the foreground, indicating she might be sitting at a desk or table. Her body language and the context imply engagement and attentiveness in whatever discussion is taking place.",
         "raw_AU_values_at_peak": {
             "AU01": 0.13,
             "AU02": 0.0,
@@ -2191,7 +2191,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a girl is standing in the water with her hands in the air and she is looking at the",
+        "visual_objective_description": "A young woman stands serenely by the water, her gaze directed slightly upward and toward the distance. Her hair is short and gently frames her face, moving slightly in the breeze. She exudes a calm and contemplative presence, her lips showing a hint of a content smile. Her eyes appear relaxed, suggesting she is lost in thought or absorbing the tranquil surroundings. She is dressed in a striped clothing item, possibly a top or dress, which pairs well with the soft, natural backdrop—a blurred expanse of water and sky. The overall tone is peaceful, evoking a quiet moment of introspection.",
         "raw_AU_values_at_peak": {
             "AU01": 0.26,
             "AU02": 0.01,
@@ -2231,7 +2231,7 @@
             "slightly Lip Tightener",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a person is a person who is a person who is a person who is",
+        "visual_objective_description": "In this video frame, a woman with short brown hair is seated, facing slightly upwards and appearing to be engaged in a conversation. Her eyes are wide open, indicating attentiveness or surprise, and her lips are slightly parted, perhaps in mid-reply or expressing a response. She is wearing a dark blazer over a light top, suggesting a professional setting. The background shows wooden panels, possibly part of a piece of furniture or a wall, adding warmth to the room. Part of another person is visible on the left side, suggesting they might be leaning forward, but their face is not visible, focusing the attention on the woman's expression and posture.",
         "raw_AU_values_at_peak": {
             "AU01": 0.64,
             "AU02": 0.47,
@@ -2269,7 +2269,7 @@
             "slightly Jaw Drop",
             "slightly Blink"
         ],
-        "visual_objective_description": "a girl is sitting in a chair and a girl is sitting in a chair and",
+        "visual_objective_description": "In the video frame, a woman with shoulder-length dark hair is captured in a candid moment. She is facing slightly to the side, her profile visible as she looks downwards. Her expression is warm and engaging, with a slight smile suggesting she might be speaking or listening intently. The setting appears to be indoors, with shelves in the background holding books and a bottle, adding a casual, intimate atmosphere to the scene. The woman is wearing a dark-colored top, and her demeanor exudes a sense of comfort and ease, indicative of a relaxed interaction or conversation.",
         "raw_AU_values_at_peak": {
             "AU01": 0.16,
             "AU02": 0.0,
@@ -2303,7 +2303,7 @@
             "slightly Lips Part",
             "slightly Jaw Drop"
         ],
-        "visual_objective_description": "a woman is sitting in a chair with her legs crossed and her arms in front of her",
+        "visual_objective_description": "In this video frame, a woman with curly, dark hair is sitting indoors, possibly on a cushioned chair or sofa, as suggested by the brown leather back visible behind her. Her expression is focused, with slightly widened eyes and slightly parted lips, conveying an impression of surprise or disbelief. Her posture leans slightly forward, directing her attention towards something or someone out of frame.\n\nShe is dressed in a white blouse with a simple, elegant design, embellished with a subtle floral pattern. She wears delicate pearl earrings, adding a touch of sophistication. The soft, diffused lighting suggests an intimate or domestic setting, with shadows indicating it might be evening. The background features neutral tones, possibly curtains or a wall, which adds to the calm, reflective atmosphere in the scene. The visible Chinese subtitles offer an additional layer of context, emphasizing the importance or emotional weight of the moment.",
         "raw_AU_values_at_peak": {
             "AU01": 0.0,
             "AU02": 0.02,

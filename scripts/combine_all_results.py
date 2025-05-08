@@ -6,7 +6,7 @@ import csv
 input_path = 'data/MER_test_subset/first_step.json'
 output_path = 'data/MER_test_subset/MER_final_annotations.json'
 audio_desc_dir = 'data/MER_test_subset/test_subset_gwen_description'
-visual_obj_desc_dir = 'data/MER_test_subset/test_subset_peak_frame_description'
+visual_obj_desc_dir = 'data/MER_test_subset/openai_test_subset_peak_frame_description'
 caption_dir = 'data/MER_test_subset/test_subtitles'
 
 def get_audio_description(sample_id):
